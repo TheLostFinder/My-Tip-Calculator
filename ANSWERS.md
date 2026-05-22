@@ -17,7 +17,7 @@ No live deployment.
 - JavaScript
 
 ### Why
-I used vanilla HTML/CSS/JS because the project is small and does not need a framework. It keeps the app lightweight, simple, and easy to run.
+I used simple HTML/CSS/JS because the project is small and does not need a framework. 
 
 ### Design Choices
 - Real-time calculation while typing
