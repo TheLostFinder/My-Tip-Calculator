@@ -1,14 +1,9 @@
-# Frontend Assessment Answers — Tip Calculator
+# Frontend Assessment Answers â€” Tip Calculator
 
 ## 1. How to Run
 
 1. Download all project files
 2. Open `index.html` in any browser
-
-## 2. Repo / Live URL
-
-**GitHub Repo:**  
-:contentReference[oaicite:0]{index=0}
 
 No live deployment.
 
