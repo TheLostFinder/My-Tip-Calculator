@@ -10,7 +10,7 @@
 ## 2. Repo / Live URL
 
 **GitHub Repo:**  
-:contentReference[[oaicite:0](https://github.com/TheLostFinder/My-Tip-Calculator)]{index=0}
+[:contentReference[[oaicite:0](https://github.com/TheLostFinder/My-Tip-Calculator)]{index=0}](https://github.com/TheLostFinder/My-Tip-Calculator)
 
 No live deployment.
 
